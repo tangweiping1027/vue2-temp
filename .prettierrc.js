@@ -12,7 +12,7 @@ module.exports = {
 	// 仅仅当必须的时候才会加上双引号
 	quoteProps: 'as-needed',
 	// JSX 中使用单引号
-	jsxSingleQuote: false,
+	jsxSingleQuote: true,
 	// 多行用逗号分隔的句法，未尾添加逗号（符合es5规范）
 	trailingComma: 'es5',
 	// 在括号和对象的文字之间加上一个空格
