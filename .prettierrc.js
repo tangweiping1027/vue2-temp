@@ -1,7 +1,7 @@
 module.exports = {
 	// 单行代码超出 100 个字符自动换行
 	printWidth: 120,
-	// 一个 tab 键缩进相当于 2 个空格
+	// 一个 tab 键缩进相当于 2 个空格 使用4个
 	tabWidth: 4,
 	// 行缩进使用 tab 键代替空格
 	useTabs: true,
